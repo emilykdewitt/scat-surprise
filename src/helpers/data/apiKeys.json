@@ -1,0 +1,11 @@
+{
+  "firebaseKeys" : {
+    "apiKey": "AIzaSyDlIt16d8v4ouDLl0g-7F3-tKSwOXglg3A",
+    "authDomain": "scat-surprise-88640.firebaseapp.com",
+    "databaseURL": "https://scat-surprise-88640.firebaseio.com",
+    "projectId": "scat-surprise-88640",
+    "storageBucket": "",
+    "messagingSenderId": "307003260149",
+    "appId": "1:307003260149:web:6290ef0b12e168b7"
+  }
+}
