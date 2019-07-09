@@ -1,0 +1,44 @@
+{
+  "scats": {
+    "scat1": {
+      "location": "NSS",
+      "weight": "12g",
+      "color": "Brown",
+      "sampleName": "Toxic Sample 1",
+      "animal": "Groundhog",
+      "uid": "3VHqgm0gSQZNV8ntZtQ2on4otqu2"
+    },
+    "scat2": {
+      "location": "Zoo",
+      "weight": "34g",
+      "color": "Green",
+      "sampleName": "Toxic Sample 2",
+      "animal": "Walrus",
+      "uid": "3VHqgm0gSQZNV8ntZtQ2on4otqu2"
+    },
+    "scat3": {
+      "location": "Broadway",
+      "weight": "50g",
+      "color": "Yellow",
+      "sampleName": "Toxic Sample 3",
+      "animal": "Tourist",
+      "uid": "12345"
+    },
+    "scat4": {
+      "location": "Daycare",
+      "weight": "30g",
+      "color": "Green",
+      "sampleName": "Toxic Sample 4",
+      "animal": "Toddler",
+      "uid": "3VHqgm0gSQZNV8ntZtQ2on4otqu2"
+    },
+    "scat5": {
+      "location": "My yard",
+      "weight": "5g",
+      "color": "Grey",
+      "sampleName": "Toxic Sample 5",
+      "animal": "Rabbit",
+      "uid": "12345"
+    }
+  }
+}
