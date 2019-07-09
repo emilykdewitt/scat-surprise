@@ -41,10 +41,10 @@ render() {
       return (
         <Nav className="ml-auto" navbar>
         <NavItem>
-          <NavLink tag={RRNavLink} to='./home'>Home</NavLink>
+          <NavLink tag={RRNavLink} to='/home'>Home</NavLink>
         </NavItem>
         <NavItem>
-          <NavLink tag={RRNavLink} to='./new' href="https://github.com/reactstrap/reactstrap">New Scat</NavLink>
+          <NavLink tag={RRNavLink} to='/new' href="https://github.com/reactstrap/reactstrap">New Scat</NavLink>
         </NavItem>
         <NavItem>
           <NavLink onClick={this.logMeOut}>Logout</NavLink>
