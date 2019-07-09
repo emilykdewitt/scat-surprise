@@ -7,8 +7,6 @@ const scatCardShape = PropTypes.shape({
   color: PropTypes.string.isRequired,
   sampleName: PropTypes.string.isRequired,
   animal: PropTypes.string.isRequired,
-  uid: PropTypes.bool.isRequired,
-  furType: PropTypes.string.isRequired,
 });
 
 export default { scatCardShape };
